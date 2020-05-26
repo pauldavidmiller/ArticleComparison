@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "381569574189",
+    "firebase_url": "https://articlecomparison.firebaseio.com",
+    "project_id": "articlecomparison",
+    "storage_bucket": "articlecomparison.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381569574189:android:5fa4cf5637827ee92c1fa4",
+        "android_client_info": {
+          "package_name": "com.paulmiller.project2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381569574189-25qpljbpt03e0a12c3r14esmmqbctdtq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhI-GzPRTVLu1MLykehU7DORERHkoiNso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381569574189-25qpljbpt03e0a12c3r14esmmqbctdtq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

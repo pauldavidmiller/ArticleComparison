@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Article Comparison</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register Here</string>
+    <string name="signUp">Sign Up</string>
+    <string name="enter_search_phrase">Find New and Old Articles</string>
+    <string name="article_title">Article Title</string>
+    <string name="old_article_date">Old Article Date Picker</string>
+    <string name="search_recent">Search Recent</string>
+    <string name="search_old">Search Old</string>
+    <string name="date_input">mm/yyyy</string>
+</resources>

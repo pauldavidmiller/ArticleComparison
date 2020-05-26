@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Comparación de Artículos</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="register">Registrar Aquí</string>
+    <string name="signUp">Regístrate</string>
+    <string name="enter_search_phrase">Encontrar Artículos Nuevos y Viejos</string>
+    <string name="article_title">Título del Artículo</string>
+    <string name="old_article_date">Selector de Fecha de Artículo Antiguo</string>
+    <string name="search_recent">Buscar Reciente</string>
+    <string name="search_old">Buscar Vieja</string>
+    <string name="date_input">mm/yyyy</string>
+</resources>
